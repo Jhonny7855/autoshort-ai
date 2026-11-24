@@ -1,0 +1,8 @@
+INFO:     127.0.0.1:50714 - "GET /api/system/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53704 - "GET /api/system/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52277 - "GET /api/system/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52277 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54762 - "GET /api/system/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58379 - "GET /api/system/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63144 - "POST /api/auth/local/login HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:63144 - "GET /api/auth/status HTTP/1.1" 200 OK
